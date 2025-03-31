@@ -47,14 +47,14 @@ type JustynClark = {
 
 ## 🚀 Recent Projects
 
-- 🎧 **JustBeatz** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
+- 🎧 **JustBeatz Music** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,tailwind,postgres,prisma,aws,nodejs,bun,vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,go,rust,nestjs,react,nextjs,remix,tailwind,postgres,docker,aws,postman" />
 </p>
 
 ---
