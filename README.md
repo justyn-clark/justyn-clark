@@ -76,6 +76,7 @@ type JustynClark = {
 
 <p align="center">
   <a href="https://justynclark.com" target="_blank">🌐 justynclark.com</a> •
-  <a href="https://linkedin.com/in/justynclark" target="_blank">LinkedIn</a> •
-  <a href="mailto:hey@justynclark.com" target="_blank">Email</a>
+  <a href="https://www.linkedin.com/in/justinclarkjohnson" target="_blank">LinkedIn</a> 
 </p>
+
+
