@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- Typing animation intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Justyn+Clark!;Creative+Engineer,+Builder,+Technologist.;Welcome+to+my+GitHub+space!&center=true&width=600&height=45" />
+</p>
 
-<!--
-**justyn-clark/justyn-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">const <span style="color:#00ffff;">helloWorld</span> = <span style="color:#ffffff;">"It’s Justyn"</span>;</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎧 Full-stack developer • 🎨 Creative technologist • 🧠 Audio/video nerd • 🚀 SaaS builder
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/justyn-clark?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=justyn-clark&style=flat-square&color=blue" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```ts
+type JustynClark = {
+  title: "Full-Stack Engineer & Founder",
+  company: "Justyn Clark Network",
+  location: "Los Angeles, CA",
+  stack: [
+    "Remix.run", 
+    "React", 
+    "TypeScript", 
+    "MobX", 
+    "TailwindCSS", 
+    "Drizzle ORM", 
+    "PostgreSQL", 
+    "AWS", 
+    "S3", 
+    "Mux"
+  ],
+  fun: ["Modular Synths", "Film Scoring", "Audio/Video Automation"],
+  projects: ["JustBeatz", "Metafier", "Mux Integrations", "Render Farm Tooling"]
+}
+```
+
+> I design and build full-stack platforms at the intersection of code, content, and creativity.  
+> Founder of **Justyn Clark Network** – helping small businesses, startups, and artists launch premium software experiences.
+
+---
+
+## 🚀 Recent Projects
+
+- 🎧 **JustBeatz** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
+- 🧠 **Metafier** – AI-assisted metadata extraction and tagging system for creative and structured media workflows.
+- 🌀 **Render Tooling** – On-prem render farm automation & queue system with S3, Temporal, and RabbitMQ.
+- 📈 **Mux Integrations** – Custom transcoding pipelines and playback infrastructure for rich video delivery.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,tailwind,postgres,prisma,aws,nodejs,bun,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats-puce-sigma-81.vercel.app/api/top-langs/?username=justyn-clark&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats-puce-sigma-81.vercel.app/api?username=justyn-clark&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=justyn-clark&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://justynclark.com" target="_blank">🌐 justynclark.com</a> •
+  <a href="https://linkedin.com/in/justynclark" target="_blank">LinkedIn</a> •
+  <a href="mailto:hey@justynclark.com" target="_blank">Email</a>
+</p>
