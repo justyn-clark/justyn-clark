@@ -48,9 +48,6 @@ type JustynClark = {
 ## 🚀 Recent Projects
 
 - 🎧 **JustBeatz** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
-- 🧠 **Metafier** – AI-assisted metadata extraction and tagging system for creative and structured media workflows.
-- 🌀 **Render Tooling** – On-prem render farm automation & queue system with S3, Temporal, and RabbitMQ.
-- 📈 **Mux Integrations** – Custom transcoding pipelines and playback infrastructure for rich video delivery.
 
 ---
 
@@ -64,19 +61,13 @@ type JustynClark = {
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-puce-sigma-81.vercel.app/api/top-langs/?username=justyn-clark&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats-puce-sigma-81.vercel.app/api?username=justyn-clark&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=justyn-clark&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://justynclark.com" target="_blank">🌐 justynclark.com</a> •
-  <a href="https://www.linkedin.com/in/justinclarkjohnson" target="_blank">LinkedIn</a> 
-</p>
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-puce-sigma-81.vercel.app/api?username=justyn-clark&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=justyn-clark&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
