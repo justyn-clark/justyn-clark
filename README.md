@@ -1,12 +1,12 @@
 <!-- Typing animation intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Justyn+Clark!;Full-Stack+Engineer+%26+Python+Developer;FastAPI,+React,+%26+Creative+Tech;Welcome+to+my+GitHub+space!&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Justyn+Clark!;Full-Stack+Engineer+%26+Creative+Technologist;React,+Python,+%26+Modern+Web+Tech;Welcome+to+my+GitHub+space!&center=true&width=600&height=45" />
 </p>
 
 <h1 align="center">const <span style="color:#00ffff;">helloWorld</span> = <span style="color:#ffffff;">"It’s Justyn"</span>;</h1>
 
 <p align="center">
-  🐍 Python developer • 🎧 Full-stack engineer • 🎨 Creative technologist • 🧠 Audio/video nerd • 🚀 SaaS builder
+  🎧 Full-stack developer • 🐍 Python enthusiast • 🎨 Creative technologist • 🧠 Audio/video nerd • 🚀 SaaS builder
 </p>
 
 <p align="center">
@@ -73,27 +73,25 @@ type JustynClark = {
 
 ---
 
-## 🐍 Python Expertise
+## 🛠️ Tech Expertise
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1C1C1C?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
-**Backend & API Development:**
+**Full-Stack Development:**
 
-- **FastAPI** - Modern, fast web framework for building APIs
-- **SQLAlchemy 2.0** - Async ORM with PostgreSQL integration
-- **Alembic** - Database migration management
-- **Pydantic** - Data validation and serialization
-- **uv** - Ultra-fast Python package manager
-- **Docker** - Containerized deployments
-- **Fly.io** - Global application deployment
+- **Frontend:** React, Remix, TypeScript, TailwindCSS, MobX
+- **Backend:** Python (FastAPI), Node.js (NestJS), TypeScript
+- **Databases:** PostgreSQL, Redis, SQLAlchemy 2.0, Drizzle ORM
+- **DevOps:** Docker, Fly.io, AWS, Alembic migrations
+- **Tools:** uv Package Manager, Pydantic validation
 
 ---
 
@@ -107,28 +105,47 @@ type JustynClark = {
 
 ## 📚 Featured Repositories
 
-<div align="center">
+### 🚀 Recent Projects
 
-### 🐍 Python Projects
+<table>
+<tr>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justyn-clark&repo=fastapi-sqlalchemy-starter&theme=dark&hide_border=true)](https://github.com/justyn-clark/fastapi-sqlalchemy-starter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justyn-clark&repo=justynclarknetwork-api&theme=dark&hide_border=true)](https://github.com/justyn-clark/justynclarknetwork-api)
+[![FastAPI Starter](https://github-readme-stats.vercel.app/api/pin/?username=justyn-clark&repo=fastapi-sqlalchemy-starter&theme=dark&hide_border=true&show_owner=true&cache_seconds=3600)](https://github.com/justyn-clark/fastapi-sqlalchemy-starter)
 
-</div>
+</td>
+<td width="50%">
 
-**Key Python Projects:**
+### 🏗️ Justyn Clark Network API
 
-- 🚀 **FastAPI SQLAlchemy Starter** - Production-ready template with async PostgreSQL, JWT auth, and Docker
+**Private Repository**
+
+*Microservices-ready FastAPI server with CRUD patterns, CMS features, and Fly.io deployment*
+
+**Tech Stack:** FastAPI, SQLAlchemy 2.0, PostgreSQL, Alembic, Pydantic, Docker, Fly.io
+
+</td>
+</tr>
+</table>
+
+**Direct Links:**
+
+- 🚀 [FastAPI SQLAlchemy Starter](https://github.com/justyn-clark/fastapi-sqlalchemy-starter) *(Public)*
+- 🏗️ Justyn Clark Network API *(Private Repository)*
+
+**Key Projects:**
+
+- 🚀 **FastAPI SQLAlchemy Starter** - Production-ready Python template with async PostgreSQL, JWT auth, and Docker
 - 🏗️ **Justyn Clark Network API** - Microservices-ready FastAPI server with CRUD patterns and CMS features
-- 🎧 **JustBeatz Music** - Full-stack audio/video platform with Python backend services
+- 🎧 **JustBeatz Music** - Full-stack audio/video platform built with Remix, MobX, Drizzle, and AWS
 
 ---
 
-## 🐍 Python Activity
+## 📈 Development Activity
 
 <div align="center">
 
-![Python Activity](https://github-readme-activity-graph.vercel.app/graph?username=justyn-clark&theme=react-dark&hide_border=true&area=true&custom_title=Python%20Development%20Activity)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=justyn-clark&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity)
 
 </div>
 
@@ -139,18 +156,18 @@ type JustynClark = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-puce-sigma-81.vercel.app/api?username=justyn-clark&show_icons=true&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-puce-sigma-81.vercel.app/api?username=justyn-clark&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=justyn-clark&theme=dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=justyn-clark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-### 🐍 Top Languages
+### 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justyn-clark&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justyn-clark&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&exclude_repo=justyn-clark.github.io)
 
 </div>
