@@ -68,7 +68,11 @@ type JustynClark = {
 ## 🚀 Recent Projects
 
 - 🎧 **JustBeatz Music** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
+
+- 🐹 **Go Chi PostgreSQL Starter** – Production-ready Go REST API template with Chi Router, PostgreSQL 18, JWT auth, migrations, and Docker support.
+
 - 🐍 **FastAPI SQLAlchemy Starter** – Production-ready FastAPI template with async PostgreSQL, JWT auth, Alembic migrations, and Docker support.
+
 - 🏗️ **Justyn Clark Network API** – Microservices-ready FastAPI server with CRUD patterns, CMS features, and Fly.io deployment.
 
 ---
@@ -78,6 +82,7 @@ type JustynClark = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -108,24 +113,23 @@ type JustynClark = {
 ### 🚀 Recent Projects
 
 <table>
+
 <tr>
+
+<td width="50%">
+
+[![Go Chi PostgreSQL Starter](https://github-readme-stats.vercel.app/api/pin/?username=justyn-clark&repo=go-chi-postgres-starter&theme=dark&hide_border=true&show_owner=true&cache_seconds=3600)](https://github.com/justyn-clark/go-chi-postgres-starter)
+
+</td>
+
 <td width="50%">
 
 [![FastAPI Starter](https://github-readme-stats.vercel.app/api/pin/?username=justyn-clark&repo=fastapi-sqlalchemy-starter&theme=dark&hide_border=true&show_owner=true&cache_seconds=3600)](https://github.com/justyn-clark/fastapi-sqlalchemy-starter)
 
 </td>
-<td width="50%">
 
-### 🏗️ Justyn Clark Network API
-
-**Private Repository**
-
-*Microservices-ready FastAPI server with CRUD patterns, CMS features, and Fly.io deployment*
-
-**Tech Stack:** FastAPI, SQLAlchemy 2.0, PostgreSQL, Alembic, Pydantic, Docker, Fly.io
-
-</td>
 </tr>
+
 </table>
 
 **Direct Links:**
@@ -135,8 +139,20 @@ type JustynClark = {
 
 **Key Projects:**
 
+- 🐹 [Go Chi PostgreSQL Starter](https://github.com/justyn-clark/go-chi-postgres-starter) *(Public)* - Production-ready Go REST API template with Chi Router, PostgreSQL 18, JWT auth, and Docker
+
+- 🚀 [FastAPI SQLAlchemy Starter](https://github.com/justyn-clark/fastapi-sqlalchemy-starter) *(Public)* - Production-ready Python template with async PostgreSQL, JWT auth, and Docker
+
+- 🏗️ Justyn Clark Network API *(Private Repository)* - Microservices-ready FastAPI server with CRUD patterns and CMS features
+
+**Key Projects:**
+
+- 🐹 **Go Chi PostgreSQL Starter** - Production-ready Go REST API template with Chi Router, PostgreSQL 18, JWT auth, migrations, queue system, and Docker
+
 - 🚀 **FastAPI SQLAlchemy Starter** - Production-ready Python template with async PostgreSQL, JWT auth, and Docker
+
 - 🏗️ **Justyn Clark Network API** - Microservices-ready FastAPI server with CRUD patterns and CMS features
+
 - 🎧 **JustBeatz Music** - Full-stack audio/video platform built with Remix, MobX, Drizzle, and AWS
 
 ---
