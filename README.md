@@ -68,11 +68,8 @@ type JustynClark = {
 ## 🚀 Recent Projects
 
 - 🎧 **JustBeatz Music** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
-
 - 🐹 **Go Chi PostgreSQL Starter** – Production-ready Go REST API template with Chi Router, PostgreSQL 18, JWT auth, migrations, and Docker support.
-
 - 🐍 **FastAPI SQLAlchemy Starter** – Production-ready FastAPI template with async PostgreSQL, JWT auth, Alembic migrations, and Docker support.
-
 - 🏗️ **Justyn Clark Network API** – Microservices-ready FastAPI server with CRUD patterns, CMS features, and Fly.io deployment.
 
 ---
@@ -93,7 +90,7 @@ type JustynClark = {
 **Full-Stack Development:**
 
 - **Frontend:** React, Remix, TypeScript, TailwindCSS, MobX
-- **Backend:** Python (FastAPI), Node.js (NestJS), TypeScript
+- **Backend:** Go (Chi Router), Python (FastAPI), Node.js (NestJS), TypeScript
 - **Databases:** PostgreSQL, Redis, SQLAlchemy 2.0, Drizzle ORM
 - **DevOps:** Docker, Fly.io, AWS, Alembic migrations
 - **Tools:** uv Package Manager, Pydantic validation
