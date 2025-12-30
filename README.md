@@ -17,47 +17,16 @@
 
 ## 🧠 About Me
 
-```ts
-type JustynClark = {
-  title: "Full-Stack Engineer & Founder",
-  company: "Justyn Clark Network",
-  location: "Los Angeles, CA",
-  stack: [
-    // Frontend
-    "ReactJS", 
-    "Remix.run",
-    "TailwindCSS", 
-    "TypeScript", 
-    "MobX",
-    
-    // Backend & APIs
-    "Python",
-    "FastAPI",
-    "SQLAlchemy 2.0",
-    "Alembic",
-    "Pydantic",
-    "NestJS",
-    "Drizzle ORM", 
-    
-    // Databases
-    "PostgreSQL",     
-    "Redis",
-    
-    // DevOps & Cloud
-    "Docker",
-    "Fly.io",
-    "AWS", 
-    "S3", 
-    "uv Package Manager",
-    
-    // Media & Tools
-    "Mux",
-    "Alembic Migrations"
-  ],
-  fun: ["Modular Synths", "Film Scoring", "Audio/Video Automation"],
-  projects: ["SMALL Protocol", "JustBeatz", "Metafier", "FastAPI Starter", "Mux Integrations", "Render Farm Tooling"]
-}
-```
+I design and build execution-first platforms at the intersection of software, AI, and media.
+
+Founder of Justyn Clark Network (JCN) - a development studio focused on systems that value determinism, auditability, and long-term maintainability over hype.
+
+My work spans:
+- schema-driven systems
+- CMS and workflow tooling
+- AI-enabled platforms constrained by real-world governance
+- audio/video infrastructure and automation
+
 
 > I design and build full-stack platforms at the intersection of code, content, and creativity.  
 > Founder of **Justyn Clark Network** – helping small businesses, startups, and artists launch premium software experiences.
