@@ -1,9 +1,9 @@
 <!-- Typing animation intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Justyn+Clark!;Full-Stack+Engineer+%26+Creative+Technologist;React,+Python,+%26+Modern+Web+Tech;Welcome+to+my+GitHub+space!&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Justyn+Clark!;Full-Stack+Engineer+%26+Creative+Technologist;React,+Python,+%26+Modern+Web+Tech;Creator+of+SMALL+Protocol;Welcome+to+my+GitHub+space!&center=true&width=600&height=45" />
 </p>
 
-<h1 align="center">const <span style="color:#00ffff;">helloWorld</span> = <span style="color:#ffffff;">"It’s Justyn"</span>;</h1>
+<h1 align="center">const <span style="color:#00ffff;">helloWorld</span> = <span style="color:#ffffff;">"It's Justyn"</span>;</h1>
 
 <p align="center">
   🎧 Full-stack developer • 🐍 Python enthusiast • 🎨 Creative technologist • 🧠 Audio/video nerd • 🚀 SaaS builder
@@ -56,7 +56,7 @@ type JustynClark = {
     "Alembic Migrations"
   ],
   fun: ["Modular Synths", "Film Scoring", "Audio/Video Automation"],
-  projects: ["JustBeatz", "Metafier", "FastAPI Starter", "Mux Integrations", "Render Farm Tooling"]
+  projects: ["SMALL Protocol", "JustBeatz", "Metafier", "FastAPI Starter", "Mux Integrations", "Render Farm Tooling"]
 }
 ```
 
@@ -66,7 +66,7 @@ type JustynClark = {
 ---
 
 ## 🚀 Recent Projects
-
+- 📐 SMALL Protocol – A formal execution model for making AI agent work resumable, verifiable, and auditable. File-based, Git-native, tool-agnostic.
 - 🎧 **JustBeatz Music** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
 - 🐹 **Go Chi PostgreSQL Starter** – Production-ready Go REST API template with Chi Router, PostgreSQL 18, JWT auth, migrations, and Docker support.
 - 🐍 **FastAPI SQLAlchemy Starter** – Production-ready FastAPI template with async PostgreSQL, JWT auth, Alembic migrations, and Docker support.
@@ -135,7 +135,7 @@ type JustynClark = {
 - 🏗️ Justyn Clark Network API *(Private Repository)*
 
 **Key Projects:**
-
+- 📐 SMALL Protocol (Private) - Formal execution model for AI agent continuity and verification
 - 🐹 [Go Chi PostgreSQL Starter](https://github.com/justyn-clark/go-chi-postgres-starter) *(Public)* - Production-ready Go REST API template with Chi Router, PostgreSQL 18, JWT auth, and Docker
 - 🚀 [FastAPI SQLAlchemy Starter](https://github.com/justyn-clark/fastapi-sqlalchemy-starter) *(Public)* - Production-ready Python template with async PostgreSQL, JWT auth, and Docker
 - 🏗️ Justyn Clark Network API *(Private Repository)* - Microservices-ready FastAPI server with CRUD patterns and CMS features
