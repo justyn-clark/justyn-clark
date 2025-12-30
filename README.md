@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=justyn-clark&style=flat-square&color=blue" />
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -63,8 +62,6 @@ type JustynClark = {
 > I design and build full-stack platforms at the intersection of code, content, and creativity.  
 > Founder of **Justyn Clark Network** – helping small businesses, startups, and artists launch premium software experiences.
 
----
-
 ## 🚀 Recent Projects
 - 📐 SMALL Protocol – A formal execution model for making AI agent work resumable, verifiable, and auditable. File-based, Git-native, tool-agnostic.
 - 🎧 **JustBeatz Music** – Audio/video player and dashboard platform built with Remix, MobX, Drizzle, and AWS.
@@ -72,7 +69,6 @@ type JustynClark = {
 - 🐍 **FastAPI SQLAlchemy Starter** – Production-ready FastAPI template with async PostgreSQL, JWT auth, Alembic migrations, and Docker support.
 - 🏗️ **Justyn Clark Network API** – Microservices-ready FastAPI server with CRUD patterns, CMS features, and Fly.io deployment.
 
----
 
 ## 🛠️ Tech Expertise
 
@@ -95,7 +91,6 @@ type JustynClark = {
 - **DevOps:** Docker, Fly.io, AWS, Alembic migrations
 - **Tools:** uv Package Manager, Pydantic validation
 
----
 
 ## 🛠️ Tech Stack
 
@@ -103,7 +98,6 @@ type JustynClark = {
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,fastapi,flask,django,go,rust,nestjs,react,nextjs,remix,tailwind,postgres,redis,docker,aws,postman" />
 </p>
 
----
 
 ## 📚 Featured Repositories
 
@@ -141,7 +135,6 @@ type JustynClark = {
 - 🏗️ Justyn Clark Network API *(Private Repository)* - Microservices-ready FastAPI server with CRUD patterns and CMS features
 - 🎧 **JustBeatz Music** - Full-stack audio/video platform built with Remix, MobX, Drizzle, and AWS
 
----
 
 ## 📈 Development Activity
 
@@ -151,7 +144,7 @@ type JustynClark = {
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
