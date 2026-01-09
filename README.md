@@ -10,7 +10,7 @@
 
 I design and build execution-first platforms at the intersection of software, AI, and media.
 
-Founder of **Justyn Clark Network (JCN)** — a development studio focused on systems that prioritize determinism, auditability, and long-term maintainability over hype.
+Founder of **Justyn Clark Network (JCN)** - a development studio focused on systems that prioritize determinism, auditability, and long-term maintainability over hype.
 
 My work commonly involves:
 - schema-driven backends and workflows
