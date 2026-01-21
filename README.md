@@ -47,8 +47,7 @@ These are active, evolving systems - not experiments or archived ideas.
   Built to support governed workflows and bounded inference.
 
 - **PHOS**  
-  Media and processing infrastructure for audio and video pipelines.  
-  Focused on durability, metadata integrity, and production workflows.
+  PHOS generates visual artifacts across media. A stable HTTP API for generating images (album covers, blog heroes, etc.) with optional analysis/tagging via Moondream.
 
 - **Thread-Based Engineering (TBE)**  
   A system design and execution methodology for running architecture review and implementation in parallel.  
