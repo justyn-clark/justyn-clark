@@ -21,14 +21,16 @@ My work typically centers on:
 
 ---
 
+
 ## Current Projects
 
 These are active, evolving systems - not experiments or archived ideas.
 
-- **SMALL Protocol**  
+- **SMALL Protocol**
   A formal execution protocol for AI-assisted work.  
   Makes work resumable, auditable, and deterministic using file-based, Git-native artifacts.  
   Tool-agnostic. Agent-safe. Boring by design.
+  https://smallprotocol.dev
 
 - **loopexec**  
   A Rust-based CLI for orchestrating structured execution loops ("Ralph loops") across agents, tasks, and environments.  
