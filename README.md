@@ -30,9 +30,9 @@ These are active, evolving systems - not experiments or archived ideas.
   Makes work resumable, auditable, and deterministic using file-based, Git-native artifacts.  
   Tool-agnostic. Agent-safe. Boring by design.
 
-- **Spindle**  
-  A Go-based CLI for orchestrating structured execution loops ("Ralph loops") across agents, tasks, and environments.  
-  Designed to run, resume, and audit real work - not just prompt chains.
+- **loopexec**  
+  A Rust-based CLI for orchestrating structured execution loops ("Ralph loops") across agents, tasks, and environments.  
+  Designed to run, resume, and audit real work - not just prompt chains. loopexec exists to make AI-assisted and human-assisted work durable, auditable, reproducible, interrupt-safe, and token-efficient.
 
 - **Schema Foundry**  
   A growing catalog of high-signal domain schemas and system patterns for real products.  
@@ -65,6 +65,7 @@ These are active, evolving systems - not experiments or archived ideas.
 - Go (Chi)
 - Python (FastAPI)
 - Node.js (NestJS)
+- Rust
 
 **Data**
 - PostgreSQL, Redis
