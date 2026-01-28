@@ -34,15 +34,15 @@ These are active, evolving systems - not experiments or shelfware.
   Think “source control for execution state.” \
   https://smallprotocol.dev
 
-- **Musketeer**  
-  A command-line companion for running coordinated work across multiple agents and tools.  
-  Built for alignment, guardrails, and keeping execution pointed in the same direction. \
-  https://musketeer.dev 
-
 - **loopexec**  
   A CLI for running bounded execution loops without losing context or progress.  
   Designed to keep work moving forward, even when everything else stops. \
   https://loopexec.dev
+
+- **musketeer**  
+  A command-line companion for running coordinated work across multiple agents and tools.  
+  Built for alignment, guardrails, and keeping execution pointed in the same direction. \
+  https://musketeer.dev   
 
 - **Schema Foundry** (closed-source)
   A curated collection of schemas and system blueprints pulled from real products.  
