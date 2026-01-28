@@ -25,26 +25,30 @@ My work typically centers on:
 
 These are active, evolving systems - not experiments or shelfware.
 
+- **JustBeatz Music** (closed-source) \
+  A full-stack music platform focused on audio playback, media storage, and metadata management. Built to handle real media workflows, playback state, and production constraints, and later retired after serving its purpose. \
+  https://justbeatzmusic.com
+
 - **SMALL Protocol**  
   A shared language for making work traceable, resumable, and verifiable.  
-  Think “source control for execution state.”  
+  Think “source control for execution state.” \
   https://smallprotocol.dev
 
 - **Musketeer**  
   A command-line companion for running coordinated work across multiple agents and tools.  
-  Built for alignment, guardrails, and keeping execution pointed in the same direction.  
-  https://musketeer.dev
+  Built for alignment, guardrails, and keeping execution pointed in the same direction. \
+  https://musketeer.dev 
 
 - **loopexec**  
   A CLI for running bounded execution loops without losing context or progress.  
-  Designed to keep work moving forward, even when everything else stops.
+  Designed to keep work moving forward, even when everything else stops. \
   https://loopexec.dev
 
-- **Schema Foundry**  
+- **Schema Foundry** (closed-source)
   A curated collection of schemas and system blueprints pulled from real products.  
   Less theory. More things that actually ship.
 
-- **ClientBrief**  
+- **ClientBrief** (closed-source)  
   A structured intake system for turning messy ideas into usable inputs.  
   Designed for clients, teams, and creative workflows that need clarity fast.
 
