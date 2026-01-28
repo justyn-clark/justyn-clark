@@ -10,50 +10,55 @@
 
 I design and build execution-first systems at the intersection of software, AI, and media.
 
-Founder of **Justyn Clark Network (JCN)** - a development studio focused on deterministic systems, auditability, and long-term maintainability over hype-driven abstraction.
+Founder of **Justyn Clark Network (JCN)** - a development studio focused on systems that value clarity, determinism, and durability over hype and abstraction.
 
 My work typically centers on:
-- protocol-driven execution models
-- schema-first platforms and workflows
-- AI systems with explicit governance and constraints
-- audio, video, and media infrastructure
-- developer tooling and CLIs
+- execution models that survive interruptions
+- schema-first platforms that scale cleanly
+- AI systems with real constraints
+- audio, video, and media pipelines
+- developer tooling that does real work
 
 ---
 
-
 ## Current Projects
 
-These are active, evolving systems - not experiments or archived ideas.
+These are active, evolving systems - not experiments or shelfware.
 
-- **SMALL Protocol**
-  A formal execution protocol for AI-assisted work.  
-  Makes work resumable, auditable, and deterministic using file-based, Git-native artifacts.  
-  Tool-agnostic. Agent-safe. Boring by design.
+- **SMALL Protocol**  
+  A shared language for making work traceable, resumable, and verifiable.  
+  Think “source control for execution state.”  
   https://smallprotocol.dev
 
+- **Musketeer**  
+  A command-line companion for running coordinated work across multiple agents and tools.  
+  Built for alignment, guardrails, and keeping execution pointed in the same direction.  
+  https://musketeer.dev
+
 - **loopexec**  
-  A Rust-based CLI for orchestrating structured execution loops ("Ralph loops") across agents, tasks, and environments.  
-  Designed to run, resume, and audit real work - not just prompt chains. loopexec exists to make AI-assisted and human-assisted work durable, auditable, reproducible, interrupt-safe, and token-efficient.
+  A CLI for running bounded execution loops without losing context or progress.  
+  Designed to keep work moving forward, even when everything else stops.
+  https://loopexec.dev
 
 - **Schema Foundry**  
-  A growing catalog of high-signal domain schemas and system patterns for real products.  
-  Focused on durable architecture, not framework churn.
+  A curated collection of schemas and system blueprints pulled from real products.  
+  Less theory. More things that actually ship.
 
 - **ClientBrief**  
-  An intake and briefing platform for clients, media, and structured requirements.  
-  Combines schema-driven forms, file ingestion, and AI-assisted normalization.
+  A structured intake system for turning messy ideas into usable inputs.  
+  Designed for clients, teams, and creative workflows that need clarity fast.
 
 - **Mindrail**  
-  A constrained AI reasoning and routing layer focused on execution safety, not creativity theater.  
-  Built to support governed workflows and bounded inference.
+  A safety rail for AI-assisted work.  
+  Keeps reasoning constrained, routed, and grounded in reality.
 
 - **PHOS**  
-  PHOS generates visual artifacts across media. A stable HTTP API for generating images (album covers, blog heroes, etc.) with optional analysis/tagging via Moondream.
+  A media utility layer for generating and managing visual assets.  
+  Built for consistency, reuse, and production-grade outputs.
 
 - **Thread-Based Engineering (TBE)**  
-  A system design and execution methodology for running architecture review and implementation in parallel.  
-  Emphasizes traceability, concurrency, and clear handoff boundaries.
+  A way to design and build systems in parallel without losing the thread.  
+  Focused on handoffs, traceability, and sane collaboration.
 
 ---
 
@@ -82,7 +87,7 @@ These are active, evolving systems - not experiments or archived ideas.
 
 ## Featured Repositories
 
-Public repos focus on protocols, tooling, and patterns that are stable enough to share.
+Public repos focus on tooling and patterns that have proven themselves.
 
 - https://github.com/justyn-clark/go-chi-postgres-starter
 - https://github.com/justyn-clark/fastapi-sqlalchemy-starter
@@ -92,4 +97,4 @@ Public repos focus on protocols, tooling, and patterns that are stable enough to
 ## Activity
 
 Most work happens in active product repositories and private systems.  
-Public code reflects execution models, templates, and tooling that survive real-world use.
+Public code reflects ideas that survived contact with reality.
