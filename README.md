@@ -76,7 +76,6 @@ These are active, evolving systems - not experiments or shelfware.
 
 - **SchemaFoundry**  
   Production-grade schema reference systems across industries.  
-  https://schemafoundry.dev
 
 - **loopexec**  
   Bounded execution loops for resilient agent workflows.  
