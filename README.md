@@ -1,12 +1,25 @@
 <h1 align="center">Justyn Clark</h1>
 
 <p align="center">
-  Full-stack engineer · systems-minded builder · software + media
+  Founder · Systems Engineer · Execution Infrastructure
+</p>
+
+<p align="center">
+  Building durable, deterministic software systems across AI, media, and infrastructure.
+</p>
+
+<p>
+<a href="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+<a href="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white"><img src="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-Distributed%20Systems-121212?style=flat-square"><img src="https://img.shields.io/badge/-Distributed%20Systems-121212?style=flat-square" /></a>
 </p>
 
 ---
-
-## About
 
 I design and build execution-first systems at the intersection of software, AI, and media.
 
@@ -44,26 +57,51 @@ These are active, evolving systems - not experiments or shelfware.
 
 ---
 
-## Technical Focus
+## GitHub Activity
 
-**Frontend**
-- React, Remix, TypeScript
-- TailwindCSS, MobX
+<p>
+<a href="https://github.com/justyn-clark">
+  <img src="https://ghchart.rshah.org/justyn-clark" alt="GitHub Contribution Graph" />
+</a>
+</p>
 
-**Backend**
-- Go (Chi)
-- Python (FastAPI)
-- Node.js (NestJS)
-- Rust
+---
 
-**Data**
-- PostgreSQL, Redis
-- Drizzle ORM, SQLAlchemy 2.0
+## What I'm Building
 
-**Infrastructure**
-- Docker, Compose
-- AWS, Fly.io, Railway
-- Migrations, CI, execution tooling
+- **SMALL Protocol**  
+  Deterministic, auditable project state for agentic engineering.  
+  https://github.com/justyn-clark/small-protocol  
+  https://smallprotocol.dev
+
+- **SchemaFoundry**  
+  Production-grade schema reference systems across industries.  
+  https://schemafoundry.dev
+
+- **loopexec**  
+  Bounded execution loops for resilient agent workflows.  
+  https://loopexec.dev
+
+- **Musketeer**  
+  Coordinated multi-agent CLI orchestration.  
+  https://musketeer.dev
+
+---
+
+## What I'm Focused On
+
+- Deterministic agent execution and replay safety  
+- CI-grade invariant enforcement  
+- Local-first tooling and CLI systems  
+- Execution lineage and reproducibility  
+- Audio + media systems built like software, not toys  
+
+---
+
+## Recent Writing
+
+- [SMALL Protocol v1.0.0 Release Notes](https://github.com/justyn-clark/small-protocol/releases)  
+- [Why Execution Needs a Contract](https://smallprotocol.dev/blog/ai-needs-execution) 
 
 ---
 
