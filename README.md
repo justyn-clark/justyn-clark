@@ -105,15 +105,6 @@ These are active, evolving systems - not experiments or shelfware.
 
 ---
 
-## Featured Repositories
-
-Public repos focus on tooling and patterns that have proven themselves.
-
-- https://github.com/justyn-clark/go-chi-postgres-starter
-- https://github.com/justyn-clark/fastapi-sqlalchemy-starter
-
----
-
 ## Activity
 
 Most work happens in active product repositories and private systems.  
