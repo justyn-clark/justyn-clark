@@ -1,7 +1,7 @@
 <h1 align="center">Justyn Clark</h1>
 
 <p align="center">
-  Founder · Systems Engineer · Execution Infrastructure
+  Builder · Systems Engineer · Execution Infrastructure
 </p>
 
 <p align="center">
