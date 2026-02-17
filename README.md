@@ -23,7 +23,7 @@
 
 I design and build execution-first systems at the intersection of software, AI, and media.
 
-Chief Builder of **Justyn Clark Network (JCN)** - a development studio focused on systems that value clarity, determinism, and durability over hype and abstraction.
+Chief builder @ **Justyn Clark Network (JCN)** - a development studio focused on systems that value clarity, determinism, and durability over hype and abstraction.
 
 My work typically centers on:
 - execution models that survive interruptions
