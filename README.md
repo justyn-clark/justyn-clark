@@ -37,23 +37,15 @@ My work typically centers on:
 
 These are active, evolving systems - not experiments or shelfware.
 
-🛠️ [SMALL Protocol](https://github.com/justyn-clark/small-protocol) (Public) - A shared language for making work traceable, resumable, and verifiable. Think "source control for execution state."
+🛠️ [SMALL Protocol](https://github.com/justyn-clark/small-protocol) - A shared language for making work traceable, resumable, and verifiable. Think "source control for execution state."
 
-🎧 **[JustBeatz Music](https://justbeatzmusic.com)** (closed-source) - A full-stack music platform focused on audio playback, media storage, and metadata management. 
+🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management. 
 
-🔄 **[loopexec](https://loopexec.dev)**  (closed-source) - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops.  
+🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>  
 
-三 **[musketeer](https://musketeer.dev)** (closed-source) - A command-line companion for running coordinated work across multiple agents and tools. Built for alignment, guardrails, and keeping execution pointed in the same direction.  
+三 **[musketeer](https://musketeer.dev)** - A command-line companion for running coordinated work across multiple agents and tools. Built for alignment, guardrails, and keeping execution pointed in the same direction. <i>(in progress)</i>
 
-🛠️ **Schema Foundry** (closed-source) - A curated collection of schemas and system blueprints pulled from real products. Less theory. More things that actually ship.
-
-💼 **ClientBrief** (closed-source) - A structured intake system for turning messy ideas into usable inputs. Designed for clients, teams, and creative workflows that need clarity fast.
-
-🧠 **Mindrail** (closed-source) - A safety rail for AI-assisted work. Keeps reasoning constrained, routed, and grounded in reality.
-
-🎇 **PHOS** (closed-source) - A media utility layer for generating and managing visual assets. Built for consistency, reuse, and production-grade outputs.
-
-🧵 **Thread-Based Engineering (TBE)** (closed-source) - A way to design and build systems in parallel without losing the thread. Focused on handoffs, traceability, and sane collaboration.
+🛠️ **[Schema Foundry](https://schemafoundry.dev)** - A curated collection of schemas and system blueprints pulled from real products. Less theory. More things that actually ship. <i>(in progress)</i>
 
 ---
 
@@ -67,29 +59,9 @@ These are active, evolving systems - not experiments or shelfware.
 
 ---
 
-## What I'm Building
-
-- **SMALL Protocol**  
-  Deterministic, auditable project state for agentic engineering.  
-  https://github.com/justyn-clark/small-protocol  
-  https://smallprotocol.dev
-
-- **SchemaFoundry**  
-  Production-grade schema reference systems across industries.  
-
-- **loopexec**  
-  Bounded execution loops for resilient agent workflows.  
-  https://loopexec.dev
-
-- **Musketeer**  
-  Coordinated multi-agent CLI orchestration.  
-  https://musketeer.dev
-
----
-
 ## What I'm Focused On
 
-- Deterministic agent execution and replay safety  
+- Deterministic agent execution and safety  
 - CI-grade invariant enforcement  
 - Local-first tooling and CLI systems  
 - Execution lineage and reproducibility  
