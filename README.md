@@ -47,8 +47,6 @@ These are active, evolving systems - not experiments or shelfware.
 
 三 **[musketeer](https://musketeer.dev)** - A command-line companion for running coordinated work across multiple agents and tools. Built for alignment, guardrails, and keeping execution pointed in the same direction. <i>(in progress)</i>
 
-🛠️ **[Schema Foundry](https://schemafoundry.dev)** - A curated collection of schemas and system blueprints pulled from real products. Less theory. More things that actually ship. <i>(in progress)</i>
-
 ---
 
 ## GitHub Activity
