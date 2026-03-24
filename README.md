@@ -70,7 +70,7 @@ These are active, evolving systems - not experiments or shelfware.
 ---
 
 ## Recent Writing
-
+- [The Operator Stack: Running a Distributed Studio From Apple Silicon](https://justynclark.com/articles/the-operator-stack-running-a-distributed-studio-from-apple-silicon)
 - [SMALL Protocol v1.0.0 Release Notes](https://github.com/justyn-clark/small-protocol/releases)  
 - [Why Execution Needs a Contract](https://smallprotocol.dev/blog/ai-needs-execution) 
 
