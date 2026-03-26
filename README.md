@@ -41,9 +41,11 @@ These are active, evolving systems - not experiments or shelfware.
 
 🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management. 
 
+🔗 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running.
+
 🔗 **[devports](https://github.com/justyn-clark/devports)** - A lightweight CLI for managing development ports, services, and local network URLs.
 
-🧵[tbe](https://github.com/justyn-clark/thread-based-engineering) - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
+🧵 **[tbe](https://github.com/justyn-clark/thread-based-engineering)** - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
 
 🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>  
 
