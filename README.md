@@ -43,6 +43,8 @@ These are active, evolving systems - not experiments or shelfware.
 
 🔗 **[devports](https://github.com/justyn-clark/devports)** - A lightweight CLI for managing development ports, services, and local network URLs.
 
+🧵[tbe](https://github.com/justyn-clark/thread-based-engineering) - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
+
 🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>  
 
 三 **[musketeer](https://musketeer.dev)** - A command-line companion for running coordinated work across multiple agents and tools. Built for alignment, guardrails, and keeping execution pointed in the same direction. <i>(in progress)</i>
