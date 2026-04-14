@@ -41,7 +41,7 @@ These are active, evolving systems - not experiments or shelfware.
 
 🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management. 
 
-🔗 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running.
+🔗 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running systems.
 
 🔗 **[devports](https://github.com/justyn-clark/devports)** - A lightweight CLI for managing development ports, services, and local network URLs.
 
