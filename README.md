@@ -49,6 +49,8 @@ These are active, evolving systems - not experiments or shelfware.
 
 🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>  
 
+🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
+
 三 **[musketeer](https://musketeer.dev)** - A command-line companion for running coordinated work across multiple agents and tools. Built for alignment, guardrails, and keeping execution pointed in the same direction. <i>(in progress)</i>
 
 ---
