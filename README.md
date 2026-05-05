@@ -1,11 +1,11 @@
 <h1 align="center">Justyn</h1>
 
 <p align="center">
-  Builder · Systems Engineer · Execution Infrastructure
+  Product Engineer · Systems Builder · Execution Infrastructure
 </p>
 
 <p align="center">
-  Building durable, deterministic software systems across AI, media, and infrastructure.
+  Building durable software products across AI, media, and infrastructure.
 </p>
 
 <p>
@@ -21,11 +21,14 @@
 
 ---
 
-I design and build execution-first systems at the intersection of software, AI, and media.
+I design and build execution-first product systems at the intersection of software, AI, and media.
 
-Chief builder @ **Justyn Clark Network (JCN)** - a development studio focused on systems that value clear intent, determinism, and durability over hype and abstraction.
+Chief builder @ **Justyn Clark Network (JCN)** - a development studio focused on systems that value clear intent, determinism, product judgment, and durability over hype and abstraction.
+
+The leverage in senior software work is shifting from just knowing how to build to knowing what should be built, what should not be built, and how to shape products people actually want to use.
 
 My work typically centers on:
+- product engineering from ambiguous intent to shipped systems
 - execution models that survive interruptions
 - schema-first platforms that scale cleanly
 - AI systems with real constraints
@@ -39,7 +42,7 @@ These are active, evolving systems - not experiments or shelfware.
 
 🛠️ [SMALL Protocol](https://github.com/justyn-clark/small-protocol) - A shared language for making work traceable, resumable, and verifiable. Think "source control for execution state."
 
-🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management. 
+🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management.
 
 🔗 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running systems.
 
@@ -47,7 +50,7 @@ These are active, evolving systems - not experiments or shelfware.
 
 🧵 **[tbe](https://github.com/justyn-clark/thread-based-engineering)** - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
 
-🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>  
+🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>
 
 🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
 
@@ -67,23 +70,24 @@ These are active, evolving systems - not experiments or shelfware.
 
 ## What I'm Focused On
 
-- Deterministic agent execution and safety  
-- CI-grade invariant enforcement  
-- Local-first tooling and CLI systems  
-- Execution lineage and reproducibility  
-- Audio + media systems built like software, not toys  
+- Product engineering judgment: what to build, what not to build, and why
+- Deterministic agent execution and safety
+- CI-grade invariant enforcement
+- Local-first tooling and CLI systems
+- Execution lineage and reproducibility
+- Audio + media systems built like software, not toys
 
 ---
 
 ## Recent Writing
 - [The Operator Is Not the Bottleneck](https://justynclarknetwork.com/blog/the-operator-is-not-the-bottleneck)
 - [The Operator Stack: Running a Distributed Studio From Apple Silicon](https://justynclark.com/articles/the-operator-stack-running-a-distributed-studio-from-apple-silicon)
-- [SMALL Protocol v1.0.0 Release Notes](https://github.com/justyn-clark/small-protocol/releases)  
-- [Why Execution Needs a Contract](https://smallprotocol.dev/blog/ai-needs-execution) 
+- [SMALL Protocol v1.0.0 Release Notes](https://github.com/justyn-clark/small-protocol/releases)
+- [Why Execution Needs a Contract](https://smallprotocol.dev/blog/ai-needs-execution)
 
 ---
 
 ## Activity
 
-Most work happens in active product repositories and private systems.  
+Most work happens in active product repositories and private systems.
 Public code reflects ideas that survived contact with reality.
