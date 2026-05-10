@@ -80,6 +80,7 @@ These are active, evolving systems - not experiments or shelfware.
 ---
 
 ## Recent Writing
+- [Automated Instruction as an Operating Model for AI Systems](https://justynclarknetwork.com/blog/automated-instruction-operating-model-ai-systems)
 - [The Operator Is Not the Bottleneck](https://justynclarknetwork.com/blog/the-operator-is-not-the-bottleneck)
 - [The Operator Stack: Running a Distributed Studio From Apple Silicon](https://justynclark.com/articles/the-operator-stack-running-a-distributed-studio-from-apple-silicon)
 - [SMALL Protocol v1.0.0 Release Notes](https://github.com/justyn-clark/small-protocol/releases)
