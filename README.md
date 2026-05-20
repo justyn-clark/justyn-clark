@@ -9,6 +9,7 @@
 </p>
 
 <p>
+<a href="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=elixir&logoColor=white" /></a>  
 <a href="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
@@ -16,7 +17,7 @@
 <a href="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white"><img src="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" /></a>
-<a href="https://img.shields.io/badge/-Distributed%20Systems-121212?style=flat-square"><img src="https://img.shields.io/badge/-Distributed%20Systems-121212?style=flat-square" /></a>
+<a href="https://img.shields.io/badge/-Distributed%20Systems-000000?style=flat-square"><img src="https://img.shields.io/badge/-Distributed%20Systems-000000?style=flat-square" /></a>
 </p>
 
 ---
