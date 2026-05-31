@@ -50,6 +50,8 @@ These are active, evolving systems - not experiments or shelfware.
 
 🔗 **[devports](https://github.com/justyn-clark/devports)** - A lightweight CLI for managing development ports, services, and local network URLs.
 
+**[chat-notebook](https://github.com/justyn-clark/chat-notebook)** - A local-first ChatGPT export notebook that turns years of conversations into a searchable SQLite archive with a built-in viewer.
+
 🧵 **[tbe](https://github.com/justyn-clark/thread-based-engineering)** - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
 
 🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>
