@@ -9,6 +9,7 @@
 </p>
 
 <p>
+  <a href="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=zig&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=elixir&logoColor=white" /></a>  
 <a href="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>
