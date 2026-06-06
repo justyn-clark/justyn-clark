@@ -12,6 +12,7 @@
   <a href="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=zig&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=elixir&logoColor=white" /></a>  
 <a href="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
@@ -54,7 +55,7 @@ These are active, evolving systems - not experiments or shelfware.
 
 🧵 **[tbe](https://github.com/justyn-clark/thread-based-engineering)** - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
 
-🔄 **[loopexec](https://loopexec.dev)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>
+🔄 **[loopexec](https://github.com/justyn-clark/loopexec)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>
 
 🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
 
