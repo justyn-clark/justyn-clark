@@ -45,19 +45,19 @@ These are active, evolving systems - not experiments or shelfware.
 
 🛠️ [SMALL Protocol](https://github.com/justyn-clark/small-protocol) - A shared language for making work traceable, resumable, and verifiable. Think "source control for execution state."
 
+🔄 **[loopexec](https://github.com/justyn-clark/loopexec)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops.
+
 🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management.
 
-🔗 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running systems.
+🛫 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running systems.
 
-🔗 **[devports](https://github.com/justyn-clark/devports)** - A lightweight CLI for managing development ports, services, and local network URLs.
+🔌 **[devports](https://github.com/justyn-clark/devports)** - A lightweight CLI for managing development ports, services, and local network URLs.
 
 📒 **[chat-notebook](https://github.com/justyn-clark/chat-notebook)** - A local-first ChatGPT export notebook that turns years of conversations into a searchable SQLite archive with a built-in viewer.
 
 ▶️ **[yt-transcript](https://github.com/justyn-clark/yt-transcript)** - A local-first YouTube transcript ingestion service with caption fallback, Postgres persistence, and markdown note export.
 
 🧵 **[tbe](https://github.com/justyn-clark/thread-based-engineering)** - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
-
-🔄 **[loopexec](https://github.com/justyn-clark/loopexec)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops.
 
 🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
 
