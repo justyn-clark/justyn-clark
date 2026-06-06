@@ -53,9 +53,11 @@ These are active, evolving systems - not experiments or shelfware.
 
 📒 **[chat-notebook](https://github.com/justyn-clark/chat-notebook)** - A local-first ChatGPT export notebook that turns years of conversations into a searchable SQLite archive with a built-in viewer.
 
+▶️ **[yt-transcript](https://github.com/justyn-clark/yt-transcript)** - A local-first YouTube transcript ingestion service with caption fallback, Postgres persistence, and markdown note export.
+
 🧵 **[tbe](https://github.com/justyn-clark/thread-based-engineering)** - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
 
-🔄 **[loopexec](https://github.com/justyn-clark/loopexec)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops. <i>(in progress)</i>
+🔄 **[loopexec](https://github.com/justyn-clark/loopexec)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops.
 
 🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
 
