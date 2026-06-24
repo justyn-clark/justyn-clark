@@ -39,17 +39,17 @@ My work typically centers on:
 - developer tooling that does real work
 
 ---
-## Current Projects
+## Own Projects
 
 These are active, evolving systems - not experiments or shelfware.
 
 🛠️ [SMALL Protocol](https://github.com/justyn-clark/small-protocol) - A shared language for making work traceable, resumable, and verifiable. Think "source control for execution state."
 
+🛫 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running systems.
+
 🔄 **[loopexec](https://github.com/justyn-clark/loopexec)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops.
 
-🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management.
-
-🛫 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running systems.
+🖥️ **[tmux-mission-control](https://github.com/justyn-clark/tmux-mission-control)** - Terminal-first tmux workspace launcher and session manager.
 
 🔌 **[devports](https://github.com/justyn-clark/devports)** - A lightweight CLI for managing development ports, services, and local network URLs.
 
@@ -62,6 +62,8 @@ These are active, evolving systems - not experiments or shelfware.
 🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
 
 三 **[musketeer](https://musketeer.dev)** - A command-line companion for running coordinated work across multiple agents and tools. Built for alignment, guardrails, and keeping execution pointed in the same direction. <i>(in progress)</i>
+
+🎧 **[JustBeatz Music](https://justbeatzmusic.com)** - A full-stack music platform focused on audio playback, media storage, and metadata management.
 
 ---
 
