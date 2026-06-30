@@ -7,16 +7,15 @@
 <p align="center">
   Building durable software products across AI, media, and infrastructure.
 </p>
-
 <p>
-  <a href="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=zig&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+<a href="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a> 
+<a href="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Zig-F48D01?style=flat-square&logo=zig&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=go&logoColor=violet"><img src="https://img.shields.io/badge/-Elixir-8A2BE2?style=flat-square&logo=elixir&logoColor=white" /></a>  
 <a href="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>
-<a href="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-<a href="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-<a href="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white"><img src="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" /></a>
 <a href="https://img.shields.io/badge/-Distributed%20Systems-000000?style=flat-square"><img src="https://img.shields.io/badge/-Distributed%20Systems-000000?style=flat-square" /></a>
@@ -43,11 +42,15 @@ My work typically centers on:
 
 These are active, evolving systems - not experiments or shelfware.
 
-🛠️ [SMALL Protocol](https://github.com/justyn-clark/small-protocol) - A shared language for making work traceable, resumable, and verifiable. Think "source control for execution state."
+🛠️ **[SMALL Protocol](https://github.com/justyn-clark/small-protocol)** - A shared language for making work traceable, resumable, and verifiable. Think "source control for execution state."
 
 🛫 **[wakeplane](https://github.com/justyn-clark/wakeplane)** - Durable scheduling and automated execution engine for long-running systems.
 
 🔄 **[loopexec](https://github.com/justyn-clark/loopexec)** - A CLI for running bounded execution loops without losing context or progress. Designed to keep work moving forward, even when everything else stops.
+
+🔎 **[project-aware-qa](https://github.com/justyn-clark/project-aware-qa)** - A Pi-first QA pack that scans a real codebase, infers its test surfaces, ranks risk, runs evidence-based checks, captures screenshots, and writes .qa/* reports.
+
+🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
 
 🖥️ **[tmux-mission-control](https://github.com/justyn-clark/tmux-mission-control)** - Terminal-first tmux workspace launcher and session manager.
 
@@ -58,8 +61,6 @@ These are active, evolving systems - not experiments or shelfware.
 ▶️ **[yt-transcript](https://github.com/justyn-clark/yt-transcript)** - A local-first YouTube transcript ingestion service with caption fallback, Postgres persistence, and markdown note export.
 
 🧵 **[tbe](https://github.com/justyn-clark/thread-based-engineering)** - Thread Based Engineering. A deterministic, policy-gated execution kernel with replayable evidence.
-
-🏛️ **[Boardroom](https://github.com/justyn-clark/boardroom)** - A Pi-based executive deliberation pack from Justin Clark Network for running structured CEO and board workflows from decision briefs.
 
 三 **[musketeer](https://musketeer.dev)** - A command-line companion for running coordinated work across multiple agents and tools. Built for alignment, guardrails, and keeping execution pointed in the same direction. <i>(in progress)</i>
 
@@ -89,6 +90,7 @@ These are active, evolving systems - not experiments or shelfware.
 ---
 
 ## Recent Writing
+- [Public Surfaces as Operating Maps](https://justynclarknetwork.com/blog/public-surfaces-as-operating-maps)
 - [Cron Jobs Are Becoming Operators](https://justynclark.com/articles/cron-jobs-are-becoming-operators)
 - [Automated Instruction as an Operating Model for AI Systems](https://justynclarknetwork.com/blog/automated-instruction-operating-model-ai-systems)
 - [The Operator Is Not the Bottleneck](https://justynclarknetwork.com/blog/the-operator-is-not-the-bottleneck)
